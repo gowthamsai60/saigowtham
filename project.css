@@ -1,0 +1,43 @@
+body{
+  background-image: url('backg3.jpg');
+  background-size: cover;
+}
+#p1{color:#bf360c;}
+#p2{color:#ff6f00;}
+#p3{color:#f57f17;}
+#p4{color:#827717;}
+#p5{color:#1b5e20;}
+#p6{color:#004d40;}
+#p7{color:#006064;}
+#p8{color:#1a237e;}
+#p9{color:#14235a;}
+#p10{color:#512e5f;}
+#p11{color:#78281f;}
+#p12{color:#641e16;}
+#p13{color:#e44f48;}
+.style2{
+  width: 70%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  margin: 0 auto;
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-left: 10px;
+  -webkit-border-color: 15px;
+  -moz-border-color: 15px;
+  -ms-border-color: 15px;
+  -o-border-color: 15px;
+  border-color: 15px;
+  color:white;
+  font-weight: bolder;
+  -webkit-box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+  box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+  font-size: 15px;
+ }
+h2 {
+  color:red;
+  font-family: "Times New Roman", Times, serif;
+}
+td{
+  font-family: "Times New Roman", Times, serif;
+}
