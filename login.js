@@ -1,7 +1,7 @@
 function valid(){
 	var uname = document.getElementById('uname');  
 	var pword = document.getElementById('pword');
-	var runame = "nikhil";
+	var runame = "gowtham";
 	var rpword = "chintu";
 	if(uname_validate(uname)){
 		if(pword_validate(pword)){
